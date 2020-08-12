@@ -1,4 +1,4 @@
 ## Greg Badros
 
-See [my public homepage](https://www.badros.com/greg)
+See [my public homepage](http://www.badros.com/greg)
 
